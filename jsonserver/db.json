@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "simon",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "email": "ann@codingthesmartway.com"
+    },
+    {
+      "first_name": "agnus",
+      "last_name": "gru",
+      "email": "agnus@gru.com",
+      "id": 4
+    },
+    {
+      "first_name": "simon",
+      "last_name": "gru",
+      "email": "agnus@groove.com",
+      "id": 5
+    }
+  ]
+}
